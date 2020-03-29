@@ -1,0 +1,106 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Conteúdo ================= */
+
+/** Conteúdo >> Titulo Cardápio Home **/
+.cardapiohome .uagb-rm__title-wrap {
+	width: 270px !important;
+}
+
+/** Conteúdo >> Pereço Cardápio Home **/
+.cardapiohome .uagb-rm__price {
+	width: 80px !important;
+}
+
+
+/*= Rodapé =================== */
+
+/** Rodapé >> Barra de rodapé **/
+.ast-footer-overlay {
+	
+}
+
+/** Rodapé >> teste **/
+#colophon {
+	
+}
+
+/** Rodapé >> Rodapé diminuindo barra **/
+.ast-footer-overlay {
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+}
+
+
+/*( Celular )*/
+@media (max-width: 480px) {
+
+	/*= Conteúdo ================= */
+
+	/** Conteúdo >> Pereço Cardápio Home **/
+	.cardapiohome .uagb-rm__price {
+	
+}
+
+	/** Conteúdo >> Caixas do cardápio no home **/
+	.uagb-rm__content {
+	
+}
+
+	/** Conteúdo >> textos com descrição do cardápio do home **/
+	.uagb-rm__title-wrap {
+	text-align: center !important;
+	margin-top: 80px !important;
+}
+
+	/** Conteúdo >> preços dos pratos no cardápio do home **/
+	.uagb-rm__price {
+	text-align: center !important;
+	min-width: 4px !important;
+	margin-top: 20px !important;
+	position: relative !important;
+	right: 150px !important;
+}
+
+	/** Conteúdo >> bemvindo menor nos celulares **/
+	.uagb-infobox-has-icon h2 {
+	font-size: 38px !important;
+}
+
+	/** Conteúdo >> depoimentos **/
+	.uagb-block-c7c7c00b-142e-481b-ab6a-8d9a7c1f3260 .uagb-ifb-title {
+	font-size: 35px !important;
+}
+
+	/** Conteúdo >> botão de cardápio completo **/
+	.uagb-button__link {
+	font-size: 11px !important;
+	padding-right: 50px !important;
+	padding-left: 50px !important;
+}
+
+
+	/*= Rodapé =================== */
+
+	/** Rodapé >> chamada de reserva **/
+	.uagb-block-001a392f-90f0-427e-8b99-e38d3a91f3d8 .uagb-ifb-title {
+	font-size: 39px !important;
+	text-transform: none !important;
+}
+
+	/** Rodapé >> numero do telefone no aparelho cel **/
+	.uagb-block-001a392f-90f0-427e-8b99-e38d3a91f3d8 .uagb-ifb-desc {
+	font-size: 41px !important;
+}
+
+	/** Rodapé >> btn contato **/
+	.ast-button {
+	padding-right: 5px !important;
+	padding-left: 5px !important;
+	margin-left: 20px !important;
+}
+
+
+}
+
